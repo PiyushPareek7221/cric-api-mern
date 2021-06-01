@@ -1,16 +1,5 @@
 # cric-api-mern
 
-  cd server
-  
-  npm install
-
-  npm start
-
-  
-  cd client
-  
-  npm install
-  
-  npm start
-
-  open localhost:3000/home
+1- npm install in both /client and /server
+2- npm strat in both
+--- localhost:3000/home
